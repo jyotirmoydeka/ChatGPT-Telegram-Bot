@@ -66,8 +66,8 @@ def start(bot, update):
         chat_log = None
         cache = None
         qcache = None
-        botname = 'Harshit Ethic'
-        username = 'harshitethic_bot'
+        botname = 'Chat_gpt_ai_Bot'
+        username = 'http://t.me/Chat_gpt_Master_Bot'
         update.message.reply_text('Hi')
         return 
     else:
